@@ -38,3 +38,5 @@ fields:
   type: text
   hidden: true
   default: post
+pages:
+- _posts/how-to-make-a-romantic-camping-and-wow-the-love-of-your-life.md
